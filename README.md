@@ -2,8 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
 
+First, install needed dependencies
+```bash
+npm install @mui/material @emotion/react @emotion/styled
+npm install openai        
+```
+
+Run the development server:
 ```bash
 npm run dev
 # or
